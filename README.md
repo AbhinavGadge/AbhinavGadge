@@ -11,7 +11,7 @@
 
 - 💻 Key projects: **Grocery product recognition**, **Dual-view object detection**, and **Ultrasound frequency-agnostic tissue segmentation**.
 
-- 📄 Published research in **BMVC'24 (under review)** and **ICASSP 2025**, and contributed to MATLAB Central.
+- 📄 Published research in **ISBI'23** and **ICASSP 2025**, and contributed to MATLAB Central.
 
 - 🏅 Earned Silver Medal from **IIT Kharagpur** (Top Ranker, M.Tech Biomedical Engineering).
 
